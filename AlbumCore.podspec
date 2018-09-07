@@ -53,10 +53,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "leo" => "2439594924@qq.com" }
+  s.author             = { "wuwulailai" => "908715560@qq.com" }
   # Or just: s.author    = "liudicong"
-  # s.authors            = { "liudicong" => "liudicong@xunlei.com" }
-  # s.social_media_url   = "http://twitter.com/liudicong"
+  # s.authors            = { "wuwulailai" => "wuwulailai@xunlei.com" }
+  # s.social_media_url   = "http://twitter.com/wuwulailai"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/eocleo/AlbumCore.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/wuwulailai/AlbumCore.git", :tag => "#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
