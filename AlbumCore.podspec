@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   基于ios8以上，Photos封装，用户相册选择，查看，其中增加，删除，相册内容改变通知暂时为支持
                    DESC
 
-  s.homepage     = "https://github.com/eocleo/AlbumCore.git"
+  s.homepage     = "https://github.com/wuwulailai/AlbumCore.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
